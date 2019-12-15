@@ -1,6 +1,6 @@
-CREATE database video DEFAULT charset utf8;
+CREATE database video_server DEFAULT charset utf8;
 
-use video;
+use video_server;
 
 CREATE TABLE comments (
   id VARCHAR(64) PRIMARY KEY NOT NULL,
