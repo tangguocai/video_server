@@ -1,4 +1,4 @@
-## golang开发视频网站
+## 简介
 利用golang原生http和httprouter开发的视频网站，包含api、scheduler、stream_server和web四大模块。
 ### api
 业务数据与数据库的交互；处理视频的上传、下载和播放请求转发到stream_server模块。
